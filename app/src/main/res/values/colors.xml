@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#252944</color>
+    <color name="colorPrimaryDark">#1075b4</color>
+    <color name="colorAccent">#325c80</color>
+    <color name="coresletras">#ffffff</color>
+    <color name="corestel">#F25846</color>
+
+    <color name="c_accent">#325C80</color>
+
+    <color name="c_primary">#2B4F6F</color>
+
+    <color name="c_primary_dark">#24435D</color>
+    <color name="black">#000</color>
+    <color name="dark_red">#B71C1C</color>
+    <color name="floating_action_button_bg">@color/c_accent</color>
+    <color name="floating_action_button_pressed_bg">#ffffff</color>
+</resources>
